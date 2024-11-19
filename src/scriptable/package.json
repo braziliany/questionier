@@ -1,0 +1,215 @@
+{
+    "DJG-101": {
+        "name": "国内疫情",
+        "file_name": "COVID19_China",
+        "version": "V3.5",
+        "notes": "更新说明：\n\n- 组件开源\n- 重新调整界面布局",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/DgdCV-jbDiBvFujzrTKrHA"
+    },
+    "DJG-102": {
+        "name": "海外疫情",
+        "version": "V3.0",
+        "file_name": "COVID19_overseas",
+        "notes": "更新说明：\n\n- ⚠️接口失效\n- 等待后续更新！",
+        "updateTime": "\n\n更新时间：2022-03-13 02:00",
+    },
+    "DJG-103": {
+        "name": "抖音监控",
+        "version": "V3.5",
+        "file_name": "TikTok",
+        "notes": "更新说明：\n\n- 组件开源\n- 优化底层代码",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url":"https://mp.weixin.qq.com/s/4mWKmQdWx7IeyYDprp3ZqA"
+    },
+    "DJG-104": {
+        "name": "微博热搜",
+        "version": "V3.5",
+        "file_name": "Weibo",
+        "notes": "更新说明：\n\n- 组件开源\n- 优化底层代码",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/GB04PsiT5jTuoKClnHtSqA"
+    },
+    "DJG-105": {
+        "name": "电量统计",
+        "version": "V1.0",
+        "file_name": "Alipay",
+        "notes": "最新发布：\n\n- 电量统计\n- 一目了然",
+        "updateTime": "\n\n更新时间：2021-9-11 23:00"
+    },
+    "DJG-106": {
+        "name": "微博热榜+Top7",
+        "version": "V3.6",
+        "file_name": "Weibo+Top7",
+        "notes": "最新发布：\n\n- 组件开源",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/AsfFoV4BP2Jx9_SToJhnVg"
+    },
+    "DJG-107": {
+        "name": "网易云热评",
+        "version": "V3.6",
+        "file_name": "hotcomments",
+        "notes": "更新说明：\n\n- 更换为优启梦接口",
+        "updateTime": "\n\n更新时间：2022-12-15 22:00",
+        "url": "https://mp.weixin.qq.com/s/T4ptus4_BiWvdD8PRDYTEA"
+    },
+    "DJG-108": {
+        "name": "实时油价",
+        "version": "V3.6",
+        "file_name": "oliprice",
+        "notes": "更新说明：\n\n- 组件开源\n- 优化底层代码",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/7k980Frjhxu_JMmMIXqj2A"
+    },
+    "DJG-109": {
+        "name": "中国联通",
+        "version": "V1.5",
+        "file_name": "Chinaunicom",
+        "notes": "更新说明：\n\n- 修复部分错误\n- cookie能用多久看猿粪",
+        "updateTime": "\n\n更新时间：2022-09-07 22:00",
+        "url": "https://mp.weixin.qq.com/s/1asgercWh1IO4nmTCL_JkQ"
+    },
+    "DJG-110": {
+        "name": "日历",
+        "version": "V3.6",
+        "file_name": "calendar",
+        "notes": "更新说明：\n\n- 修复日历显示错误\n- 代码能跑就行",
+        "updateTime": "\n\n更新时间：2022-06-30 22:30",
+        "url": "https://mp.weixin.qq.com/s/KjSLFyf3LwqUj8JwcY6qEg"
+    },
+    "DJG-111": {
+        "name": "百度热榜",
+        "version": "V3.7",
+        "file_name": "Hotbaidu",
+        "notes": "更新说明：\n\n- 修复错误\n- 实时展示百度热榜数据",
+        "updateTime": "\n\n更新时间：2022-06-03 23:45",
+        "url": "https://mp.weixin.qq.com/s/ool-8keykaBwyydsZjAcIg"
+    },
+    "DJG-112": {
+        "name": "B站热榜",
+        "version": "V3.5",
+        "file_name": "Hotbilibili",
+        "notes": "更新说明：\n\n- 全新改版\n- 实时展示B站热榜数据",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/jiZ9D8TMIab0-fJgmu3cwA"
+    },
+    "DJG-113": {
+        "name": "中国电信",
+        "version": "V1.2",
+        "file_name": "ChinaTelecom",
+        "notes": "更新说明：\n\n- 优化代码逻辑\n- 可多选流量套餐",
+        "updateTime": "\n\n更新时间：2022-05-04 21:30"
+    },
+    "DJG-114": {
+        "name": "一言",
+        "version": "V3.5",
+        "file_name": "hitokoto",
+        "notes": "更新说明：\n\n- 优化底层代码",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+          "url": "https://mp.weixin.qq.com/s/YJdAU1uXKMNvs_og5jN1pA"
+    },
+    "DJG-115": {
+        "name": "疫情新增",
+        "version": "V3.6",
+        "file_name": "COVID19_increase",
+        "notes": "更新说明：\n\n- 修复疫情数据错误\n- 更换疫情资讯接口",
+        "updateTime": "\n\n更新时间：2022-10-09 22:00",
+        "url": "https://mp.weixin.qq.com/s/SBUOY8UiAvwaYIrNWam4PA"
+    },
+    "DJG-116": {
+        "name": "彩云天气",
+        "version": "V3.8",
+        "file_name": "caiyun",
+        "notes": "更新说明：\n\n- 更换图床\n- 修复宝藏版无法切换问题",
+        "updateTime": "\n\n更新时间：2022-11-08 23:00",
+        "url": "https://mp.weixin.qq.com/s/3Df6-JYcstXD9NQ_iMAGQQ"
+    },
+    "DJG-117": {
+        "name": "倒计时",
+        "version": "V3.5",
+        "file_name": "timer",
+        "notes": "更新说明：\n\n- 修改了代码逻辑\n- 仿鸿蒙系统小组件",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/e1tUbmWd2NXrAxnJSIVrzw"
+    },
+    "DJG-118": {
+        "name": "必应壁纸",
+        "version": "V3.5",
+        "file_name": "bing",
+        "notes": "更新说明：\n\n- 仿小件件组件\n- 增加保存壁纸按钮\n- 必应壁纸每天一换",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/XrXtOCmxtQKIZP1ftrXAXQ"
+    },
+    "DJG-119": {
+        "name": "京东",
+        "version": "V3.8",
+        "file_name": "JD",
+        "notes": "更新说明：\n\n- 更换失效图床\n- 修复图片读取错误问题",
+        "updateTime": "\n\n更新时间：2022-08-31 23:00",
+        "url": "https://mp.weixin.qq.com/s/LpRzHgd-HC0XHRjnGBsSyA"
+    },
+    "DJG-120": {
+        "name": "知乎热榜",
+        "version": "V3.5",
+        "file_name": "zhihu",
+        "notes": "最新发布：\n\n- 知乎热榜小组件\n- 网友投稿",
+        "updateTime": "\n\n更新时间：2022-04-23 23:00",
+        "url": "https://mp.weixin.qq.com/s/SCwxAC_IMVwXCB6Cio6WlQ"
+    },
+    "DJG-121": {
+        "name": "彩云天气2",
+        "version": "V3.8",
+        "file_name": "caiyun2",
+        "notes": "更新说明：\n\n- 完善了依赖文件逻辑\n- 需更新组件才可开启样式设置",
+        "updateTime": "\n\n更新时间：2022-06-03 23:00",
+        "url": "https://mp.weixin.qq.com/s/WrrCdFnJkZrwDX2PebvETw"
+    },
+    "DJG-122": {
+        "name": "时间进度",
+        "version": "V1.2",
+        "file_name": "timeCourse",
+        "notes": "更新说明：\n\n- 修复剩余天数错误",
+        "updateTime": "\n\n更新时间：2022-08-12 23:00",
+        "url": "https://mp.weixin.qq.com/s/BaLIF--nDEEtb8wtEHqypw"
+    },
+    "DJG-123": {
+        "name": "和风天气Ⅰ",
+        "version": "V1.0",
+        "file_name": "HeFengWeather1",
+        "notes": "最新发布：\n\n- 仿彩云app组件排版\n- 同时支持彩云与和风密钥",
+        "updateTime": "\n\n更新时间：2022-06-18 08:00",
+        "url": "https://mp.weixin.qq.com/s/WrrCdFnJkZrwDX2PebvETw"
+    },
+    "DJG-124": {
+        "name": "和风天气Ⅱ",
+        "version": "V1.0",
+        "file_name": "HeFengWeather2",
+        "notes": "最新发布：\n\n- 第二款和风天气组件\n- 同时支持彩云与和风密钥",
+        "updateTime": "\n\n发布时间：2022-06-18 08:00",
+        "url": "https://mp.weixin.qq.com/s/BaLIF--nDEEtb8wtEHqypw"
+    },
+    "DJG-125": {
+        "name": "核酸提醒",
+        "version": "V1.1",
+        "file_name": "NucleicAcid",
+        "notes": "更新说明：\n\n- 核酸过期提醒小组件\n- 小组件盒子app排版样式",
+        "updateTime": "\n\n发布时间：2022-06-28 08:00",
+        "url": "https://mp.weixin.qq.com/s/_mZziKe-yG3mdA7KVp-g-A"
+    },
+    "DJG-126": {
+        "name": "日历 Ⅱ",
+        "version": "V1.0",
+        "file_name": "calendar2",
+        "notes": "最新发布：\n\n- 个人比较喜欢的一款\n- 可自行添加重复事件",
+        "updateTime": "\n\n发布时间：2022-07-08 08:30",
+        "url": "https://mp.weixin.qq.com/s/hkAlR-sMipQqBYI_F8n7-Q"
+    },
+    "DJG-127": {
+        "name": "核酸小助手",
+        "version": "V2.1",
+        "file_name": "NucleicAcid2",
+        "notes": "更新说明：\n\n- 接口配置文件更加合理\n- 请重新安装配置文件\n- 并仔细阅读文件注释\n- 部分接口需要修改配置",
+        "updateTime": "\n\n发布时间：2022-12-03 24:00",
+        "url": "https://mp.weixin.qq.com/s/Fpzsnb1AztLBfOayehuncg"
+    }
+}
