@@ -1,0 +1,8 @@
+#!name = ❐LightRoom
+#!desc = adobe lightroom解锁
+[script]
+LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/lightroom.js
+[mitm]
+hostname = %APPEND% photos.adobe.io
+[url]
+https://whatshub.top/module/lightroom.module
